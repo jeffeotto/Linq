@@ -1,0 +1,12 @@
+/Users/jeffeotto/Projects/Linq/Linq/bin/Debug/netcoreapp3.1/Linq.deps.json
+/Users/jeffeotto/Projects/Linq/Linq/bin/Debug/netcoreapp3.1/Linq.runtimeconfig.json
+/Users/jeffeotto/Projects/Linq/Linq/bin/Debug/netcoreapp3.1/Linq.runtimeconfig.dev.json
+/Users/jeffeotto/Projects/Linq/Linq/bin/Debug/netcoreapp3.1/Linq.dll
+/Users/jeffeotto/Projects/Linq/Linq/bin/Debug/netcoreapp3.1/Linq.pdb
+/Users/jeffeotto/Projects/Linq/Linq/obj/Debug/netcoreapp3.1/Linq.csprojAssemblyReference.cache
+/Users/jeffeotto/Projects/Linq/Linq/obj/Debug/netcoreapp3.1/Linq.AssemblyInfoInputs.cache
+/Users/jeffeotto/Projects/Linq/Linq/obj/Debug/netcoreapp3.1/Linq.AssemblyInfo.cs
+/Users/jeffeotto/Projects/Linq/Linq/obj/Debug/netcoreapp3.1/Linq.csproj.CoreCompileInputs.cache
+/Users/jeffeotto/Projects/Linq/Linq/obj/Debug/netcoreapp3.1/Linq.dll
+/Users/jeffeotto/Projects/Linq/Linq/obj/Debug/netcoreapp3.1/Linq.pdb
+/Users/jeffeotto/Projects/Linq/Linq/obj/Debug/netcoreapp3.1/Linq.genruntimeconfig.cache
